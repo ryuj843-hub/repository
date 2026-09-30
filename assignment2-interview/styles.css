@@ -1,0 +1,29 @@
+h1{
+    font-size: 100px;
+    color:rgb(103, 8, 8);
+    font-weight: 600;
+    text-align: center;
+}
+
+h2{
+    font-style:italic;
+    font-weight: 200;
+    font-size: 200;
+    text-align: center;
+    
+}
+
+h3{
+    line-height:0cap;
+    text-align:center;
+    letter-spacing:0cap
+    
+}
+p
+
+body{
+    background-color: rgb(29, 8, 8);
+}
+
+body{
+}
